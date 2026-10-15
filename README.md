@@ -1,5 +1,7 @@
 # Cartera Analytics
 
+![CI](https://github.com/Jhonnvarona-dev/cartera-analytics/actions/workflows/ci.yml/badge.svg)
+
 Herramienta en Python para analizar una cartera de cobro: **mora por rangos, índice de morosidad, tasa de recaudo, desempeño por asesor y priorización de la gestión**.
 
 Nació de un caso que conozco de primera mano: más de 9 años trabajando en recuperación de cartera. Quise convertir las métricas que uso a diario en código probado y reproducible.
